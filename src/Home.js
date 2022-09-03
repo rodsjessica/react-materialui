@@ -56,7 +56,7 @@ function Home() {
                     >
                         <MoreVert />
                     </IconButton>
-                    <Button startIcon={<AccountCircle />} variant='outlined' color='secondary' >Iniciar Sessão</Button>
+                    <Button startIcon={<AccountCircle />} variant='outlined' color='secondary' >Iniciar sessão</Button>
                 </Toolbar>
             </AppBar>
         </div>
